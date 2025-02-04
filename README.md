@@ -15,7 +15,6 @@
 </div>
 <br><br>
 
-![Snake animation](https://github.com/matheus-los/matheus-los/blob/output/github-contribution-grid-snake.svg)
 
           
           
