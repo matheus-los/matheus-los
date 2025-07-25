@@ -1,7 +1,6 @@
 ## Matheus Lós 👋
 
-- 🔭 Estudante de Análise e Desenvolvimento de Sistemas - 5° período
-- ⚡ Me desenvolvendo como Dev Front-End
+- 🔭 Formado em Análise e Desenvolvimento de Sistemas - 5° período
 
 ## Tecnologias e Ferramentas..
 
